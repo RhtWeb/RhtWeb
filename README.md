@@ -2,7 +2,7 @@
 
 Vist My <strong>portfolio Website</strong> <br />
 <!-- <a href="https://rhtweb.in/" target="_blank">click</a> <br /> -->
-https://rhtweb.in/
+https://RhtWeb.in/
 
 <!--
 **RhtWeb/RhtWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
